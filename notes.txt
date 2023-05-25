@@ -1,0 +1,22 @@
+1.write -npm init
+2.install express
+-npm i express
+3.install mongo
+-npm i mongoose
+4.istall dev dependency-since i dont want to run programm again and agin
+-npm i nodemon 
+4.create cluster in mongodb or else use mongo copass
+5.take path and put in file
+-mongodb+srv://demo1:<password>@atlascluster.khbgmar.mongodb.net/test
+6.install .env file
+-npm i dotenv
+7.install postman or use online postman portal
+link for installation: ps://www.postman.com/downloads
+8.Install mongod compass
+link:https://www.mongodb.com/try/download/community
+9.install body-parser 
+-npm i body-parser
+10.install nodemon
+-npm i nodemon
+11.install router
+-npm i router
